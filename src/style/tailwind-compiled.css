@@ -516,6 +516,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   top: 100%;
 }
 
+.z-\[999999\] {
+  z-index: 999999;
+}
+
 .z-\[5\] {
   z-index: 5;
 }
@@ -544,20 +548,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   z-index: -1;
 }
 
-.z-\[999999\] {
-  z-index: 999999;
-}
-
 .m-\[20px\] {
   margin: 20px;
 }
 
 .flex {
   display: flex;
-}
-
-.hidden {
-  display: none;
 }
 
 .h-full {
@@ -645,17 +641,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.text-red-500 {
-  --tw-text-opacity: 1;
-  color: rgb(239 68 68 / var(--tw-text-opacity));
+.opacity-0 {
+  opacity: 0;
 }
 
 .opacity-100 {
   opacity: 1;
-}
-
-.opacity-0 {
-  opacity: 0;
 }
 
 .transition-all {
@@ -718,5 +709,5 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .hover\:text-orange-ncma:hover {
   --tw-text-opacity: 1;
-  color: rgb(235 51 0 / var(--tw-text-opacity));
+  color: rgb(224 89 42 / var(--tw-text-opacity));
 }

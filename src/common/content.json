@@ -1,9 +1,9 @@
 {
-  "attract_video_path": "./common/assets/video/concert.mp4",
-  "main_video_path": "./common/assets/video/20221017-kehinde-04-tc-1080p-2.mp4",
+  "attract_video_path": "./common/assets/video/20230127-Three Graces-ATTRACT-01-1080p.mp4",
+  "main_video_path": "./common/assets/video/20230127-Three Graces-01-ENG-720p.mp4",
   "en": {
     "attract": {
-      "title": "Discovering <i>Judith and Holofernes</i>",
+      "title": "Looking Closely at <i>Three Graces</i>",
       "touch_to_begin": "TOUCH TO BEGIN"
     },
     "main_video": {
